@@ -84,17 +84,21 @@ Blackjack is a popular card game where the goal is to achieve a hand value as cl
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/blackjack-game-framework.git
+   git clone https://github.com/CodeCraftman2/BlackJack-Game
    ```
 2. Navigate to the project directory:
    ```bash
-   cd blackjack-game-framework
+   cd BlackJack-Game
    ```
 
 ### Running the Game
 - Execute the main game file:
   ```bash
-  python main.py
+  python blackjack.py
+  ```
+  or
+  ```bash
+  python3 blackjack.py
   ```
 
 ---
